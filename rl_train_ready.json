@@ -1,0 +1,2002 @@
+[
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 17. Subtract 9. Subtract 14. Add 7. Add 8. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 12. Subtract 6. Subtract 3. Add 8. Subtract 5. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 5. Subtract 5. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -24
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Subtract 12. Subtract 5. Add 15. Add 15. Add 13. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 5. Add 5. Add 10. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 6. Subtract 15. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 1. Add 15. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 8. Add 9. Subtract 9. Subtract 3. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 20. Subtract 8. Subtract 14. Subtract 13. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 9. Add 5. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 11. Subtract 9. Subtract 3. Subtract 12. Subtract 1. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 10. Add 18. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 9. Subtract 9. Add 11. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 18
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 6. Subtract 6. Subtract 12. Add 19. Subtract 9. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 13. Add 2. Subtract 15. Subtract 18. Add 5. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 6. Subtract 15. Add 18. Subtract 7. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 2. Add 1. Add 19. Add 1. Add 4. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 45
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 2. Add 5. Add 16. Subtract 7. Add 16. Subtract 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 18. Subtract 8. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 3. Subtract 7. Add 20. Subtract 16. Add 16. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 15. Subtract 3. Subtract 20. Add 8. Subtract 5. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -24
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 20. Add 1. Add 1. Add 17. Subtract 7. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 20
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 18. Add 14. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 13. Add 20. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 6. Subtract 6. Add 6. Subtract 18. Add 15. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 12. Subtract 12. Subtract 13. Subtract 14. Subtract 2. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -67
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 11. Add 17. Subtract 8. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 36
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 4. Add 19. Add 10. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 13. Add 19. Subtract 18. Add 16. Subtract 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 9. Add 13. Subtract 6. Subtract 9. Add 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 43
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 9. Subtract 13. Subtract 14. Subtract 9. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 5. Subtract 3. Add 16. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 14. Subtract 4. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -22
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 15. Subtract 8. Add 8. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 15. Add 4. Subtract 10. Add 20. Add 5. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 49
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 5. Subtract 4. Add 12. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 10. Subtract 17. Subtract 1. Add 15. Add 17. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 2. Subtract 7. Subtract 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Add 20. Subtract 15. Add 5. Subtract 8. Subtract 11. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 11. Subtract 15. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 19. Subtract 13. Add 11. Subtract 15. Subtract 19. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -53
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 10. Add 8. Add 6. Subtract 3. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 19. Subtract 1. Subtract 8. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 3. Subtract 3. Add 10. Subtract 2. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 16. Subtract 2. Subtract 7. Subtract 20. Subtract 6. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 10. Subtract 15. Add 10. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 13. Add 5. Subtract 10. Subtract 12. Subtract 14. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -28
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 16. Subtract 20. Add 12. Subtract 1. Subtract 4. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -3
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 1. Subtract 3. Add 3. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 19. Add 3. Subtract 3. Add 15. Add 10. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 69
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 4. Add 20. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 18. Subtract 3. Subtract 17. Add 13. Add 7. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -36
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 8. Subtract 9. Subtract 4. Add 3. Subtract 16. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 6. Add 20. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 11. Add 16. Add 20. Add 14. Subtract 17. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 11. Add 3. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -12
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 2. Subtract 11. Add 10. Add 5. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 10. Add 5. Subtract 19. Subtract 19. Subtract 6. Add 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -28
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 16. Add 7. Subtract 7. Subtract 16. Subtract 5. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -19
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 13. Add 3. Subtract 13. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 14. Add 16. Add 11. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 58
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 13. Add 1. Add 14. Subtract 12. Subtract 15. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 18. Subtract 5. Add 19. Subtract 11. Subtract 10. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 1. Subtract 10. Add 7. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Add 8. Subtract 14. Add 13. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 19. Add 18. Add 15. Add 15. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 89
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 2. Subtract 9. Subtract 7. Add 11. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 15. Add 14. Subtract 7. Add 2. Add 13. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 28
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 16. Add 4. Add 8. Subtract 2. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 19. Subtract 16. Add 19. Subtract 1. Subtract 19. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 1. Subtract 8. Subtract 16. Subtract 4. Add 11. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 4. Add 14. Add 17. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 23
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 8. Subtract 17. Subtract 9. Add 15. Add 13. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 3. Subtract 18. Add 20. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 15. Subtract 6. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 9. Add 12. Subtract 2. Add 7. Add 5. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 2. Subtract 13. Add 1. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 6. Add 14. Subtract 19. Add 10. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 9. Subtract 7. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 2. Add 19. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 36
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 7. Add 10. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 11. Add 6. Subtract 15. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 9. Add 14. Subtract 18. Subtract 6. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 4. Subtract 2. Subtract 1. Add 8. Add 3. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 15. Subtract 8. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 16. Subtract 8. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 40
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 3. Add 9. Subtract 17. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 16. Add 7. Add 16. Subtract 10. Add 17. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 69
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 8. Add 2. Subtract 10. Add 13. Add 19. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 1. Add 7. Subtract 3. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 20. Subtract 9. Add 2. Add 3. Subtract 17. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 13. Subtract 12. Subtract 7. Add 20. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 14. Add 9. Subtract 8. Subtract 20. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 20. Add 9. Subtract 18. Add 19. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 45
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 17. Subtract 2. Add 2. Subtract 2. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 20
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Add 16. Subtract 13. Subtract 3. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Subtract 14. Add 14. Add 8. Add 15. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 49
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 11. Add 10. Subtract 13. Add 9. Subtract 1. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 42
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 5. Add 7. Subtract 4. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 2. Subtract 6. Add 14. Add 7. Add 6. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 47
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 8. Subtract 3. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 17. Add 2. Subtract 17. Add 2. Add 18. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 27
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 1. Add 15. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 20. Add 4. Subtract 12. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 19. Subtract 6. Add 6. Add 12. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 46
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 8. Add 18. Subtract 7. Add 18. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 45
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 12. Subtract 14. Subtract 4. Add 19. Subtract 13. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 1. Subtract 1. Subtract 10. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 20. Add 11. Subtract 11. Subtract 10. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 9. Subtract 11. Add 17. Subtract 9. Subtract 4. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 10. Add 5. Add 7. Subtract 18. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Add 11. Subtract 2. Subtract 5. Add 17. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 7. Subtract 8. Add 17. Subtract 7. Add 4. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Subtract 9. Subtract 19. Add 4. Subtract 6. Subtract 15. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -48
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 2. Subtract 9. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 28
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 15. Subtract 14. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 17. Subtract 9. Subtract 16. Subtract 1. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 5. Add 13. Add 1. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 41
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 3. Subtract 5. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 16. Subtract 6. Add 13. Subtract 8. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 14. Add 3. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Subtract 17. Subtract 2. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 5. Add 5. Subtract 2. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 14. Add 11. Add 8. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 11. Add 20. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 5. Add 10. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 10. Subtract 7. Add 8. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 19. Add 17. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 70
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 11. Subtract 1. Subtract 19. Add 5. Add 15. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 10. Add 2. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 9. Add 3. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Add 7. Subtract 1. Subtract 9. Subtract 14. Add 1. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 14. Subtract 19. Subtract 1. Add 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 12. Subtract 2. Add 8. Subtract 16. Add 18. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 17. Add 14. Subtract 14. Add 12. Add 14. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 12. Subtract 12. Add 6. Subtract 16. Subtract 9. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 3. Add 12. Add 8. Add 20. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 34
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 15. Subtract 12. Add 7. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 15
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 7. Subtract 9. Add 1. Add 20. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 13. Add 2. Add 16. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 35
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 15. Add 8. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 14. Add 10. Subtract 1. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 35
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 1. Subtract 11. Add 15. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 8. Add 6. Subtract 8. Subtract 6. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 14. Add 16. Subtract 5. Subtract 10. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 44
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 5. Subtract 11. Subtract 16. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -17
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 2. Add 9. Add 2. Subtract 15. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 14. Subtract 14. Add 1. Add 11. Subtract 8. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -27
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Subtract 6. Add 9. Subtract 12. Add 1. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 10. Add 11. Subtract 3. Add 15. Subtract 7. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 52
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 17. Add 20. Subtract 17. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 12. Subtract 10. Add 7. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 1. Add 6. Add 10. Add 10. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 53
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 13. Add 19. Subtract 15. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 14. Subtract 5. Add 10. Subtract 18. Subtract 9. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -16
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 9. Add 10. Add 12. Subtract 6. Subtract 16. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 34
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 8. Add 13. Subtract 20. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 14. Add 17. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 5. Add 15. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 18. Subtract 9. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -5
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 16. Subtract 1. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 4. Subtract 4. Subtract 18. Subtract 2. Add 13. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 19. Subtract 8. Subtract 6. Add 9. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 11
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 9. Subtract 3. Add 19. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 43
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 18. Add 4. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 47
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 11. Add 15. Add 14. Add 16. Add 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 63
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 14. Add 14. Subtract 1. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 56
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 9. Subtract 18. Add 19. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 14. Add 12. Add 17. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 66
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 18. Subtract 10. Subtract 8. Add 20. Subtract 8. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 1. Add 20. Subtract 5. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 33
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 4. Add 11. Subtract 11. Add 8. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 3. Add 16. Add 7. Add 12. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 53
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 4. Add 14. Subtract 10. Subtract 3. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 16. Add 14. Add 2. Subtract 6. Subtract 4. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 4. Subtract 9. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Add 11. Add 3. Subtract 2. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 4. Subtract 19. Subtract 18. Subtract 3. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 18. Subtract 17. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 5. Subtract 15. Add 12. Subtract 5. Add 3. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 16. Subtract 12. Subtract 10. Subtract 2. Add 7. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 2. Add 8. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 1. Add 18. Subtract 18. Add 11. Add 3. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 1. Add 10. Add 2. Add 17. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 34
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 5. Subtract 20. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 11. Add 17. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 20
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 1. Subtract 11. Add 7. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 2. Subtract 15. Subtract 19. Subtract 9. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -13
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 15. Subtract 9. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 2. Add 20. Add 5. Subtract 4. Subtract 20. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 17. Add 14. Subtract 2. Subtract 2. Add 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 6. Add 18. Add 7. Subtract 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Subtract 6. Add 12. Subtract 20. Add 19. Add 7. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 7. Subtract 6. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 5. Subtract 2. Subtract 11. Subtract 19. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 17. Add 2. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 6. Add 1. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 11. Add 1. Subtract 14. Subtract 3. Add 16. Add 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 16. Subtract 3. Add 1. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 8. Subtract 17. Subtract 10. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -9
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 2. Subtract 17. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -28
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 5. Subtract 6. Subtract 2. Subtract 14. Subtract 9. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -19
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 9. Subtract 7. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 10. Add 7. Add 5. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 8. Add 6. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 15. Add 6. Add 3. Add 9. Add 20. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 79
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 13. Add 15. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 18. Subtract 7. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 18. Subtract 12. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 10. Subtract 1. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 2. Subtract 17. Subtract 17. Add 18. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 9. Subtract 12. Add 8. Subtract 19. Subtract 6. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 15. Add 11. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 45
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 11. Subtract 13. Add 6. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -14
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 17. Subtract 8. Add 14. Add 13. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Subtract 4. Add 17. Subtract 16. Add 17. Add 18. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 8. Subtract 18. Add 5. Add 8. Subtract 9. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 20. Subtract 7. Add 4. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Subtract 6. Add 11. Subtract 15. Subtract 3. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 6. Add 17. Add 1. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 4. Subtract 18. Subtract 16. Add 18. Add 13. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 12. Add 11. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 37
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 6. Subtract 9. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 17. Add 5. Add 16. Subtract 3. Add 8. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 52
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 13. Add 10. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 47
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Add 5. Subtract 15. Subtract 15. Add 7. Add 14. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 17. Add 13. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 19. Subtract 13. Add 15. Add 10. Subtract 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 35
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 17. Add 5. Add 14. Add 12. Subtract 15. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 23
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 2. Subtract 15. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 18. Subtract 1. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -23
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 8. Subtract 8. Add 19. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 14. Subtract 14. Subtract 5. Subtract 8. Subtract 18. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 20. Subtract 18. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 11
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 9. Subtract 8. Subtract 13. Subtract 8. Add 1. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 8. Add 5. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 18. Add 3. Add 10. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 51
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 6. Subtract 3. Subtract 18. Subtract 12. Subtract 6. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 6. Add 5. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 7. Subtract 2. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 2. Subtract 14. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Subtract 14. Subtract 7. Subtract 18. Add 10. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 4. Add 5. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Add 14. Add 19. Add 2. Add 11. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 66
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 5. Subtract 2. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 19
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 13. Add 13. Subtract 18. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 8. Subtract 19. Subtract 6. Subtract 8. Subtract 13. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -23
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Subtract 10. Subtract 12. Add 9. Subtract 3. Subtract 13. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -41
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 5. Add 8. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 10. Subtract 12. Subtract 10. Add 13. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 5. Add 18. Add 10. Add 14. Add 16. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 60
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 13. Subtract 3. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 10. Subtract 16. Add 2. Subtract 16. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 4. Subtract 16. Add 3. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 5. Add 10. Subtract 3. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 48
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 15. Subtract 18. Add 9. Subtract 14. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 18. Subtract 12. Subtract 1. Add 13. Subtract 17. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Add 13. Add 14. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 16. Add 18. Subtract 11. Add 5. Add 15. Subtract 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Subtract 15. Add 6. Subtract 10. Subtract 8. Subtract 5. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 18. Add 18. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 41
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 11. Add 15. Subtract 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 3. Subtract 11. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 11. Subtract 18. Subtract 18. Add 11. Add 13. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 8
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 10. Add 18. Subtract 16. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 12. Subtract 7. Subtract 3. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 6. Add 8. Add 14. Add 12. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 10. Subtract 1. Add 5. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 44
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 16. Subtract 15. Subtract 17. Add 7. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -52
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Add 1. Subtract 6. Subtract 3. Add 15. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Subtract 1. Add 12. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 5. Add 7. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 3. Subtract 16. Subtract 14. Subtract 11. Add 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -20
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 2. Add 4. Subtract 1. Subtract 12. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 17. Subtract 13. Subtract 14. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 10. Add 12. Add 14. Subtract 12. Subtract 11. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 34
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 8. Add 8. Add 7. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 30
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 17. Subtract 20. Add 13. Subtract 7. Subtract 7. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 17. Add 1. Subtract 18. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 17. Subtract 15. Add 13. Add 6. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 11. Subtract 3. Add 9. Subtract 9. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 18. Add 9. Subtract 11. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Subtract 6. Add 18. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 44
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 5. Add 10. Add 4. Subtract 5. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 19. Add 19. Subtract 11. Subtract 18. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -33
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 19. Add 1. Subtract 18. Subtract 16. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 11. Add 11. Add 18. Subtract 5. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 17
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Add 12. Add 20. Add 18. Subtract 13. Subtract 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 41
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 16. Subtract 17. Add 4. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 5. Add 6. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 20
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 14. Subtract 5. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -28
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 14. Add 9. Subtract 19. Add 6. Add 11. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 17. Subtract 17. Subtract 5. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 1. Subtract 17. Subtract 6. Subtract 2. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -25
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 15. Add 7. Subtract 2. Add 13. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 59
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 12. Add 10. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 32
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 5. Subtract 4. Add 1. Subtract 1. Subtract 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 6. Add 17. Subtract 13. Subtract 5. Add 12. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 7. Add 13. Subtract 15. Add 1. Subtract 16. Add 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 5. Add 13. Add 2. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 3. Subtract 2. Add 11. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 20. Add 7. Add 11. Subtract 5. Add 2. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 7. Add 1. Add 8. Subtract 3. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 10. Add 3. Add 3. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 16. Subtract 13. Subtract 13. Subtract 14. Subtract 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -34
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 1. Subtract 13. Add 16. Add 2. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 20. Subtract 7. Add 7. Subtract 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 4. Subtract 15. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 8. Add 18. Subtract 3. Subtract 12. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 10. Add 12. Subtract 3. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Add 7. Subtract 8. Add 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 14
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 10. Add 14. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 2. Add 1. Subtract 2. Add 10. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 10. Subtract 15. Subtract 20. Subtract 4. Subtract 3. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -47
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 15. Add 14. Add 5. Subtract 19. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 15. Add 6. Add 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 5
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 7. Add 6. Subtract 12. Add 12. Add 6. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 3. Subtract 16. Add 2. Add 9. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 14. Add 9. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 31
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Subtract 14. Add 9. Subtract 12. Add 16. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 3
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 16. Add 20. Add 11. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 49
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 18. Add 14. Subtract 7. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 55
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 9. Subtract 19. Add 2. Subtract 10. Subtract 10. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -45
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 11. Add 9. Subtract 13. Add 12. Add 17. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 46
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 19. Add 4. Add 19. Subtract 19. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 6. Add 17. Add 17. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 55
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 20. Subtract 18. Subtract 5. Add 12. Subtract 18. Add 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 11
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 8. Subtract 19. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 16. Add 9. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 41
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 3. Subtract 5. Add 9. Subtract 16. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -23
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 9. Subtract 2. Subtract 12. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Add 16. Add 19. Subtract 3. Subtract 20. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 8. Subtract 12. Subtract 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 16. Subtract 13. Add 1. Add 17. Add 1. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 45
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 1. Add 1. Subtract 7. Subtract 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 4
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 20. Add 4. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -7
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 16. Add 15. Add 8. Subtract 4. Subtract 4. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 46
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Subtract 16. Add 10. Subtract 2. Subtract 20. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Subtract 10. Add 18. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 16
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 3. Add 13. Subtract 14. Subtract 8. Add 15. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -9
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Add 20. Add 5. Subtract 6. Subtract 6. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 22
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All students study. Some students are lazy. Are lazy people students?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Subtract 14. Add 9. Add 2. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Subtract 4. Add 6. Add 20. Subtract 11. Subtract 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 4. Add 7. Subtract 4. Add 20. Subtract 10. Add 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 35
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 10. Subtract 2. Add 15. Add 8. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 24
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 20. Subtract 18. Subtract 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -43
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 6. Add 6. Subtract 14. Subtract 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -15
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 1. Add 18. Add 11. Subtract 18. Add 14. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 48
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 8. Subtract 1. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 1
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 2. Add 9. Add 19. Subtract 3. Subtract 20. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -12
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 20. Add 14. Subtract 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 47
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 19. Add 13. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 40
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 18. Subtract 8. Add 5. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 38
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 10. Add 5. Subtract 8. Add 17. Subtract 7. Subtract 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 8. Subtract 3. Add 16. Add 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 2. Add 19. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 36
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 5. Add 9. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 18. Add 15. Subtract 3. Subtract 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 19
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Add 2. Add 12. Add 19. Subtract 14. Subtract 12. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 23
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If you study, you pass. John passed. Did John study?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 8. Add 20. Add 1. Add 19. Add 19. Add 6. Add 8. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 81
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All apples are fruits. All fruits grow on trees. Do all apples grow on trees?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 13. Subtract 13. Add 14. Subtract 13. Add 18. Add 7. Subtract 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 6
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Add 1. Add 4. Subtract 10. Subtract 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 17. Subtract 10. Subtract 20. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 19. Add 13. Add 2. Subtract 2. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 54
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 3. Subtract 8. Add 1. Add 18. Subtract 11. Add 9. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 19
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Subtract 19. Subtract 17. Add 11. Subtract 9. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 0. Subtract 4. Subtract 7. Add 4. Add 10. Add 2. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 5
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 1. Subtract 19. Add 7. Subtract 4. Add 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 17. Add 3. Add 8. Subtract 5. Add 7. Subtract 17. Subtract 10. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 3
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 7. Add 2. Add 6. Add 16. Add 4. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 40
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 8. Add 16. Subtract 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 12
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: If it rains, the grass gets wet. The grass is wet. Did it rain?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Not necessarily"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 15. Add 18. Subtract 12. Subtract 6. Subtract 18. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 13. Add 1. Add 16. Subtract 16. Add 6. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 29
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All birds can fly. Penguins are birds. Can penguins fly?\n\nShow your reasoning (one step per line):\n",
+    "answer": "No"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 16. Subtract 8. Add 1. Subtract 16. Subtract 17. Subtract 1. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Subtract 18. Add 14. Subtract 12. Add 4. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Add 9. Subtract 20. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 25
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 11. Subtract 6. Add 15. Add 4. Subtract 18. Add 2. Add 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 27
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 14. Add 16. Add 3. Subtract 5. Subtract 7. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 13
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 13. Subtract 15. Add 16. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 0
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 6. Subtract 19. Subtract 6. Add 7. Add 3. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -2
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Add 5. Subtract 18. Subtract 4. Subtract 18. Add 16. Subtract 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -18
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 19. Subtract 6. Add 14. Add 1. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 5. Subtract 14. Subtract 19. Subtract 3. Add 17. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -14
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 10. Subtract 13. Subtract 15. Subtract 8. Subtract 1. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 7
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 11. Add 3. Add 15. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 38
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: Some cats are black. All black things are dark. Are some cats dark?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Subtract 9. Subtract 1. Add 18. Add 3. Subtract 5. Subtract 18. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -8
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 14. Add 7. Add 13. Add 15. Add 11. Add 2. Subtract 19. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 43
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 7. Add 15. Add 2. Subtract 11. Add 13. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All squares are rectangles. All rectangles have four sides. Do all squares have four sides?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this logical reasoning problem step by step.\n\nProblem: All mammals are animals. All dogs are mammals. Are all dogs animals?\n\nShow your reasoning (one step per line):\n",
+    "answer": "Yes"
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 19. Subtract 13. Add 5. Add 6. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 21
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 10. Subtract 3. Add 20. Add 16. Subtract 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 36
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 20. Subtract 10. Subtract 10. Subtract 16. Add 11. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -5
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 4. Add 17. Add 1. Subtract 10. Add 12. Subtract 18. Add 20. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 26
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 9. Add 1. Add 12. Subtract 16. Add 15. Subtract 17. Subtract 14. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": -10
+  },
+  {
+    "prompt": "Solve this arithmetic problem step by step. Show your running total after each operation.\n\nProblem: Start at 12. Subtract 16. Add 19. Add 5. What is the result?\n\nShow your reasoning (one step per line):\n",
+    "answer": 20
+  }
+]
